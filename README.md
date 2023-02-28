@@ -8,9 +8,11 @@ The reason why the app sends the numpad event twice every 5 minutes is to ensure
 
 ## Screenshots
 When app is inactive;
+
 ![](/WindowsFormsApplication1/screenshots/active.jpg)
 
 When app is active;
+
 ![](/WindowsFormsApplication1/screenshots/not_active.jpg)
 
 When app is minimized;
