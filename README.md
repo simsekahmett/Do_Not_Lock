@@ -16,6 +16,7 @@ When app is active;
 ![](/WindowsFormsApplication1/screenshots/not_active.jpg)
 
 When app is minimized;
+
 ![](/WindowsFormsApplication1/screenshots/dontlock.gif)
 
 ## Installation
